@@ -1,0 +1,29 @@
+div	{
+	width: 250px;
+	height: 150px;
+	font-size: 30px;
+	float: right;
+}
+.caja{
+	position: absolute; /*absolute (se mueve con el scroll)||fixed(se mantiene aunque se mueva el scroll)*/
+	top: 200px;
+	bottom: 0px;
+	right: 0px;
+	left: 130px;
+}
+.cajagrande{
+	position: relative;
+	width: 500px;
+	height: 500px;
+}
+.gris{
+	background: gray;
+}
+.azul{
+	background: skyblue;
+}
+.morado{
+	background: purple;
+}
+.naranja{
+	background: orange;
