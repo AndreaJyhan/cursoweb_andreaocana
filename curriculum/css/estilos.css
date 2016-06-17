@@ -5,7 +5,7 @@ body{
 	height: 100%;
 	padding: 0;
 	background: white;
-	font-family: Malgun Gothic;
+	font-family: Kristen ITC;
 }
 h1{
 	color: skyblue;
@@ -40,8 +40,8 @@ h1{
 	color: purple;
 	margin-top: 50px;
 	/*border: 3px solid #2356AA;*/
-	font-size: 28px;
-	font-family: Malgun Gothic;
+	font-size: 24px;
+	font-family: AR DELANEY;
 }
 ul{
 	text-align: center;
@@ -49,5 +49,22 @@ ul{
 	color:#2356AA;
 }
 .circulo{
-	border-radius: 50%
+	border-radius: 20%
+}
+.texto{
+	margin: 20px;
+	color:purple;
+	font-family: Candara;
+	font-size: 28px;
+}
+.borde{
+	margin: 10px;
+	padding: 10px;
+}
+h4{
+	color: purple;
+	padding: 10px;
+	font-size: 22px;
+	text-align: center;
+	font-family: Mahoma;
 }
